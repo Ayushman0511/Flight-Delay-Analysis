@@ -32,5 +32,3 @@ The aim of this project is to explore the flights dataset, perform **data cleani
 ✨ This project provides a **comprehensive workflow from raw dataset → analysis → modeling → insights**, making it a valuable reference for data-driven decision-making in aviation analytics.
 
 ---
-
-Do you want me to also add a **“Getting Started” section with setup & run instructions** (like how to open the notebook, install libraries, etc.) so others can replicate your work easily?
