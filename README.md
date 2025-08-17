@@ -5,7 +5,7 @@ This project summarizes the **exploratory data analysis (EDA)** and **data model
 ## 📂 Project Structure
 
 * **`flights.csv`** → Dataset containing domestic flight records
-* **`analysis.ipynb`** → Jupyter Notebook with detailed EDA and modeling steps
+* **`Flights data analysis and regression - python code.ipynb`** → Jupyter Notebook with detailed EDA and modeling steps
 
 ## 🎯 Objective
 
